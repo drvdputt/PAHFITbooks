@@ -1,0 +1,8 @@
+# by pip installing these you should be good to go. But I might have missed something.
+jupyter
+matplotlib
+ipympl
+specutils
+astropy
+numpy
+pahfit master branch (pip install git+https://github.com/PAHFIT/pahfit)
